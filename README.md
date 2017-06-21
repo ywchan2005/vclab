@@ -16,6 +16,7 @@
 - Lin, Min, Qiang Chen, and Shuicheng Yan. "[Network in network.](https://arxiv.org/abs/1312.4400)" *Proceedings of the 2nd International Conference on Learning Representations*. (2014).
 - Clevert, Djork-Arné, Thomas Unterthiner, and Sepp Hochreiter. "[Fast and accurate deep network learning by exponential linear units (elus).](https://arxiv.org/abs/1511.07289)" *arXiv preprint arXiv:1511.07289* (2015).
 - Gulcehre, Caglar, et al. "[Noisy Activation Functions.](http://www.jmlr.org/proceedings/papers/v48/gulcehre16.pdf)" *Proceedings of The 33rd International Conference on Machine Learning*. 2016.
+- Klambauer, Günter, et al. "[Self-Normalizing Neural Networks.](https://arxiv.org/abs/1706.02515)" *arXiv preprint arXiv:1706.02515* (2017).
 
 ### Vanishing Gradient Problem
 - Pascanu, Razvan, Tomas Mikolov, and Yoshua Bengio. "[On the difficulty of training recurrent neural networks.](https://arxiv.org/abs/1211.5063)" *Proceedings of The 30th International Conference on Machine Learning*. 2013.
